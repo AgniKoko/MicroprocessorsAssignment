@@ -43,8 +43,7 @@ The task involves the simulation of an ATM that processes banknotes and verifies
 ---
 
 ## **Structure of the Repository**
-- `main.c`: The main C file for setting up variables and calling the assembly function.
-- `MyFunc.asm`: ARM assembly code implementing the PIN verification, error handling, and banknote switching logic.
+- `main.c`: The main C file for setting up variables and calling the assembly function. Also contains MyFunc, an ARM assembly code implementing the PIN verification, error handling, and banknote switching logic.
 - `README.md`: This file, explaining the assignment and its implementation.
 
 ---
