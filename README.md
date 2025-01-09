@@ -3,6 +3,8 @@
 ## **Introduction**
 This repository contains the implementation of a microprocessor-based ATM simulator as described in the exercise statement. The purpose of this project is to demonstrate concepts related to microprocessor programming, memory management, and hardware interaction using ARM assembly language.
 
+![vlcsnap-2025-01-09-11h24m32s669](https://github.com/user-attachments/assets/3403923a-97ab-421e-81ed-41d63f8ae5fa)
+
 ---
 
 ## **Assignment Description**
